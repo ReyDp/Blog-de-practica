@@ -51,6 +51,11 @@ body
     background: white;
     padding: 1em;
 }
+#post #logo2
+{
+    width: 600px;
+    vertical-align: middle;
+}
 #footer
 {
     background: #777;
