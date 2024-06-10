@@ -8,8 +8,5 @@ Tengo 29 años y naci en San Juan nepomuceno Bolivar.
 
 Un pueblo en colombia
 
-Experimentando en git
-
-Segundo experimento
 
 Haciendo cambio para probar el rebase en entorno local
